@@ -1,0 +1,85 @@
+.HubHeader,
+.Dashboard .promoContainer{
+	background-color: #6d6e72 !important;
+}
+
+button.upload, button.upload:hover,
+.Fab, .Fab .FabSubItems li,
+.Toolbar .ToolbarActions button.smallImage:hover,
+.ToolbarLocation:hover,
+.Toolbar .Dropdown.selected .DropdownButtonContainer,
+.PaymentView .PlanDisplay.selected .header,
+.PaymentView .PlanDisplay:hover .header,
+.PaymentView .PlanDisplay:hover .selectPlan,
+.ContextMenu li:hover,
+#editor .volume-slider .ui-slider-range-min,
+#editor .ui-state-default,
+#editor .ui-widget-content .ui-state-default,
+#editor #edit-clip-view .start-stop-btn.selected,
+#editor #pl-seek-bar #play-head,
+#editor #rec-audio-view #ctrl-cnt,
+#editor #publish-view #main-cnt #col-cnt #right-col #res-cnt .res-item.selected .inner,
+#editor #publish-view #main-cnt #col-cnt #right-col #res-cnt .res-item .inner:hover,
+#editor .dest-item.selected,
+#editor #editor-menu #menu-list .menu-item:hover,
+#editor .list:hover, #editor .list.selected,
+#editor .recent-item:hover, #editor .recent-item.selected,
+#editor .dropdown-container-btn .dropdown-lists-container ul.dropdown-list li.selected,
+#editor .dropdown-container-btn .dropdown-lists-container ul.dropdown-list li:hover,
+#editor #ContextMenu ul li:hover{
+	background-color: #aa282e !important;
+}
+
+button.green, button.cta, button.action,
+button.green:hover, button.cta:hover, button.action:hover,
+.ImageTextButtonForAdmin:hover .ImageTextButtonForAdminInner,
+#editor .btn-action, #editor .btn-action:hover{
+    background-color: #aa282e !important;
+    border: 1px solid #aa282e !important;
+}
+
+.PaymentView .PlanDisplay.selected,
+.PaymentView .PlanDisplay:hover,
+button.sidebarTabLink.darkGrayHover.selected,
+#editor .thumb:hover, #editor .thumb.selected,
+#editor #gallery-items .ui-selected{
+	border-color:#aa282e !important;
+}
+
+#editor #header #feedback-btn,
+#editor #tph-tail,
+#editor #tph-tail #tph-head{
+	background-color: #aa282e !important;
+	background: #aa282e !important;
+}
+
+#editor #tph-tail #tph-head:after {
+	border-top-color: #aa282e !important;
+}
+
+
+.HelpfulTile .inner .center .img:before,
+#editor #current-position,
+#editor #tl-header-ctrl #add-layer-btn.active,
+#editor #tl-header-ctrl #magSnap-btn.active,
+#editor #tl-header-ctrl #voiceOver-btn.active,
+#editor #editor-menu #menu-list .menu-item #icon,
+#editor #editor-menu #menu-list .menu-item.disabled #icon:before,
+#editor #editor-menu #menu-list .menu-item.disabled:hover #icon:before,
+#editor #publish-status-view #clear-all{
+	color: #aa282e !important;
+}
+
+#editor a, #editor a:link, #editor a:visited, #editor a:active,
+a, a:link, a:visited, a:hover, a:active{
+	color: #aa282e;
+}
+
+#editor .standalone-gallery .themeGlItem:hover,
+#editor .standalone-gallery .themeGlItem.selected{
+	box-shadow: 0px 0px 0px 4px #aa282e !important;
+}
+
+#editor #editor-menu #menu-list .menu-item:hover #icon:before{
+	color: #f2f2f2 !important;
+}
